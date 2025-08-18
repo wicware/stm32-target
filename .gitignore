@@ -1,0 +1,8 @@
+# excluded files from sub-modules
+01_SW/
+02_HW/
+
+# exclude backup files
+*.backup
+*.bck
+*.saved
